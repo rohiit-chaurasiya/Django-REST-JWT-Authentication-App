@@ -15,12 +15,13 @@ Setup a Django project with DRF and create a JWT (email-password) authentication
 
 | ACTIONS                     | HTTP METHODS | ENDPOINTS        |
 | --------------------------- | ------------ | ---------------- |
-| LOGIN WITH AN ACCOUNT       | POST         | /api/login/      |
+| REGISTER FOR AN ACCOUNT     | POST         | /api/register/   |
 | VERIFY ACCOUNT WITH OTP     | POST         | /api/verify/     |
+| LOGIN WITH AN ACCOUNT       | POST         | /api/login/      |
 | REFRESH TOKEN               | POST         | /api/refresh/    |
 | LOGOUT OF AN ACCOUNT        | GET          | /api/logout/     |
-| REGISTER FOR AN ACCOUNT     | POST         | /api/register/   |
-| EXPERIMENT WITH AN ENDPOINT | POST         | /api/experiment/ |
+
+
 
 ## Repository Structure
 
