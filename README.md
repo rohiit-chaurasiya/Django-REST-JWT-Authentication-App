@@ -1,6 +1,6 @@
 # Django-REST-JWT-Authentication-App
 
-Django project built with Django REST framework (DRF) and implement JWT authentication using email-otp. Additionally, user also receives a mail with an OTP. User goes to otp verification endpoint and verifies otp through customized UserModel and Serializer.
+Django project built with Django REST framework (DRF) and implement JWT authentication. Additionally, user also receives a mail with an OTP. User goes to otp verification endpoint and verifies otp through customized UserModel and Serializer.
 
 ## Project Workflow
 
