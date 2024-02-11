@@ -56,15 +56,15 @@ Django project built with Django REST framework (DRF) and implement JWT authenti
 
 ```
 
-## Project setup
+## Run Locally
 
-Clone this project:
+Clone the project:
 
 ```
 git clone https://github.com/RohitAayushmaan/Django-REST-JWT-Authentication-App.git
 ```
 
-Access:
+Go to the project directory:
 
 ```
 cd Django-REST-JWT-Authentication-App/JwtAuthenticationProject
@@ -88,7 +88,7 @@ After creating virtial environment we need to activate it:
 workon venv_name
 ```
 
-Package you need to install:
+Install dependencies:
 
 ```
 pip install -r requirement.txt
@@ -106,10 +106,15 @@ set EMAIL=your_email@example.com
 set PASS=your_email_password
 ```
 
-## Run the project
+## Start the server
 
 ```
 python manage.py runserver
 ```
 
 The server will initialize in the <http://localhost:8000>
+
+## Feedback:
+If you have any feedback, please reach out to us at rohiit.chaurasiya@gmail.com
+
+
