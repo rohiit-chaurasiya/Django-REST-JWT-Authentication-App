@@ -100,6 +100,12 @@ Create all the tables in database.
 python manage.py migrate
 ```
 
+Set environment variables:
+```
+set EMAIL=your_email@example.com
+set PASS=your_email_password
+```
+
 ## Run the project
 
 ```
